@@ -3,4 +3,5 @@ body{
 }
 .cabeçalho { 
     margin-bottom: 10px;
+background-repeat: yes-repeat;
 }
